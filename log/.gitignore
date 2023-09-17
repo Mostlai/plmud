@@ -1,0 +1,7 @@
+*
+!.gitignore
+!channel
+!file
+!intermud
+!static
+!user
