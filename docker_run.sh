@@ -1,5 +1,6 @@
 #!/bin/bash
 
+yum -y install wget
 wget -qO- https://get.docker.com/ | bash
 docker --version
 docker pull fluffos/fluffos
