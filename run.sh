@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # 定义变量
-ENV_FILE="data/.env"
-EXAMPLE_ENV_FILE="data/.env.example"
-DRIVER_FILE="driver"
-CONFIG_FILE="config.ini"
+ENV_FILE="./data/.env"
+EXAMPLE_ENV_FILE="./data/.env.example"
+DRIVER_FILE="./driver"
+CONFIG_FILE="./config.ini"
 
 # 检查项目 data 目录中是否存在 .env 文件
 if [ ! -f "$ENV_FILE" ]; then

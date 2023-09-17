@@ -1,3 +1,4 @@
 import subprocess
+subprocess.run(["sh", "build.sh"])
 subprocess.run(["sh", "run.sh"])
-sleep = input("")
+while 1 sleep(1)
