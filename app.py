@@ -1,4 +1,2 @@
-import sh
-
-# 执行sh脚本文件
-sh.sh("run.sh")
+import os
+os.system("start run.bat")
