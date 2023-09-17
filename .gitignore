@@ -1,13 +1,5 @@
 .DS_Store
 *_DUMP*
-*.exe
-cert*
-driver*
-fluffos*
-lpcc*
-mudos*
-swapfile*
-trace*
 temp
 version
 PROFILE
