@@ -1,2 +1,3 @@
-import os
-os.system("start run.bat")
+import subprocess
+subprocess.run(["sh", "run.sh"])
+sleep = input("")
